@@ -6,6 +6,13 @@
 	
 	var_dump($var);
 
-
+	
+    function foo ()
+	{
+		return 5;
+	}
+	
+	
+	$primeira ? $segunda : $terceira
 
 >
